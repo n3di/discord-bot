@@ -1,6 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Mięcioch%20Discord%20Bot&section=header&fontSize=70&fontAlignY=35&fontColor=gradient&animation=twinkling" /></p>
 
-[![Version][version-shield]](version-url)
+[![Version][version-shield]](package.json)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]

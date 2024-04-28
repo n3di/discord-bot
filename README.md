@@ -1,23 +1,30 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Mięcioch%20Discord%20Bot&section=header&fontSize=70&fontAlignY=35&fontColor=gradient&animation=twinkling" /></p>
-
-[![Version][version-shield]](package.json)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Support Server][support-shield]][support-server]
-[![MIT License][license-shield]][license-url]
-
-[version-shield]: https://img.shields.io/github/package-json/v/n3di/discord-bot?style=for-the-badge
-[contributors-shield]: https://img.shields.io/github/contributors/n3di/discord-bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/n3di/discord-bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/n3di/discord-bot.svg?style=for-the-badge
-[forks-url]: https://github.com/n3di/discord-bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/n3di/discord-bot.svg?style=for-the-badge
-[stars-url]: https://github.com/n3di/discord-bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/n3di/discord-bot.svg?style=for-the-badge
-[issues-url]: https://github.com/n3di/discord-bot/issues
-[license-shield]: https://img.shields.io/github/license/n3di/discord-bot.svg?style=for-the-badge
-[license-url]: https://github.com/n3di/discord-bot/blob/master/LICENSE
-[support-server]: https://discord.gg/PMpJnJaHmy
-[support-shield]: https://img.shields.io/discord/707049290006265886.svg?style=for-the-badge&logo=discord&colorB=7289DA
+<div align="center">
+  <br />
+  <p>
+    <a href="https://bot.kaaajka.pl"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Mięcioch%20Discord%20Bot&section=header&fontSize=70&fontAlignY=35&fontColor=gradient&animation=twinkling" /></a>
+  </p>
+  <br />
+  <p>
+    <a href="https://github.com/n3di/discord-bot/blob/main/package.json">
+      <img src="https://img.shields.io/github/package-json/v/n3di/discord-bot?style=for-the-badge" alt="Version" />
+    </a>
+    <a href="https://github.com/n3di/discord-bot/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/n3di/discord-bot.svg?style=for-the-badge" alt="Contributors" />
+    </a>
+    <a href="https://github.com/n3di/discord-bot/network/members">
+      <img src="https://img.shields.io/github/forks/n3di/discord-bot.svg?style=for-the-badge" alt="Forks" />
+    </a>
+    <a href="https://github.com/n3di/discord-bot/stargazers">
+      <img src="https://img.shields.io/github/stars/n3di/discord-bot.svg?style=for-the-badge" alt="Stargazers" />
+    </a>
+    <a href="https://github.com/n3di/discord-bot/issues">
+      <img src="https://img.shields.io/github/issues/n3di/discord-bot.svg?style=for-the-badge" alt="Issues" />
+    </a>
+    <a href="https://discord.gg/PMpJnJaHmy">
+      <img src="https://img.shields.io/discord/707049290006265886.svg?style=for-the-badge&logo=discord&colorB=7289DA" alt="Discord Support Server" />
+    </a>
+    <a href="https://github.com/n3di/discord-bot/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/n3di/discord-bot.svg?style=for-the-badge" alt="License" />
+    </a>
+  </p>
+</p>
